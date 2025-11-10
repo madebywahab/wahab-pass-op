@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "PassOP",
-  description: "Save Password with ease",
+  title: "PassOP - Save Password with ease",
+  description: "This is one of the simplest password protector in the market developed by wahab wali khan",
 };
 
 export default function RootLayout({ children }) {
